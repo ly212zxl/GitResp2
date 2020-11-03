@@ -7,4 +7,5 @@ package com.zxl;
  */
 public class Person {
     private String gender;
+    private String name;
 }
