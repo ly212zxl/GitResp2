@@ -2,8 +2,10 @@ package com.zxl;
 
 /**
  * Author:zxl
- * Date: 2020-11:03 9:26
+ * Date:
  * Description: <描述>
  */
 public class Student {
+    private String name;
+    private Integer age;
 }
